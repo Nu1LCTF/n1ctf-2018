@@ -1,0 +1,4 @@
+A easy Web Task:)
+hk node: http://47.75.14.48
+cn node: http://47.97.168.223
+(Two challenge servers are identical, use either of them.)s

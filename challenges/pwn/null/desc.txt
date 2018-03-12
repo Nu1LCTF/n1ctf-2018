@@ -1,0 +1,4 @@
+Check this out man! A "/dev/null" service online!
+hk node: nc 47.75.57.242 5000
+cn node: nc 47.98.50.73 5000
+(Two challenge servers are identicals, use either of them.)

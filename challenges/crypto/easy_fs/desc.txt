@@ -1,0 +1,3 @@
+hk node: nc 47.52.195.203 2333
+cn node: nc 116.62.173.68 2333
+(Two challenge servers are identical, use either of them.)

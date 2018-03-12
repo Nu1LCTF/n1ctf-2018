@@ -1,0 +1,4 @@
+Rust is magical! You can't pwn me if I don't use 'unsafe' features right? Right?
+nc 47.91.241.202 4279
+nc 47.98.57.30 4279
+(Two challenge servers are identical, use either of them.)

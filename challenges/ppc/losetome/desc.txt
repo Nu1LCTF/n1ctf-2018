@@ -1,0 +1,3 @@
+Lose to the Ai for flag.
+hk node: nc 47.75.56.59 4000
+cn node: nc 116.62.207.231 4000

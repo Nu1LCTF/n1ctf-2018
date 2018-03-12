@@ -1,0 +1,2 @@
+Please send your exploit and its usage along with your team name to nu1lctf#gmail.com.
+We will verify your submission and reply you with the flag if the exploit succeeded.

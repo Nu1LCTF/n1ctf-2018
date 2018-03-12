@@ -1,0 +1,1 @@
+Particular applications of the Coppersmith method for attacking RSA include cases when the public exponent e is small or when partial knowledge of the secret key is available. N1CTF{A_sm4ll_l34k_l3ad5_t0_l4rge_br34k}

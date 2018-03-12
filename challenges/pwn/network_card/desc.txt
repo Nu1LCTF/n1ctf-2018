@@ -1,0 +1,5 @@
+This is a network device driver.
+The flag doesn't contain `N1CTF{}` in `/flag` file.
+Please add `N1CTF{}` before submitting the flag.
+
+nc 218.2.197.234 2138

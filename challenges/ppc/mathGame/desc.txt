@@ -1,0 +1,4 @@
+Hey! Guy, come here play a simple math game to relax.
+hk node: nc 47.75.60.212 11011
+cn node: nc 47.98.54.1 11011
+(Two challenge servers are identical, use either of them.)
