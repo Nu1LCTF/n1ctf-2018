@@ -1,0 +1,8 @@
+version: '2.0'
+services:
+ nu1l:
+   build: .
+   ports:
+    - "23333:80"
+   volumes:
+    - "/tmp:/tmp/tcpdump"
