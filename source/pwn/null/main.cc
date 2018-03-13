@@ -70,6 +70,15 @@ void* thread_main(void* arg) {
 				prints("Invalid size.\n");
 				continue;
 			}
+			prints("Pad blocks: ");
+			int padblock = readint();
+			if(padblock < 0 || padblock > 1000) {
+				prints("Invalid padblock count.\n");
+				continue;
+			}
+			for(int i = 0; i < padblock; i++) {
+				malloc(sz);
+			}
 			void* buf = malloc(sz);
 			prints("Content? (0/1): ");
 			int doit = readint();

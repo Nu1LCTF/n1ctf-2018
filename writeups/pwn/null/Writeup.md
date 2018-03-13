@@ -6,3 +6,5 @@ This challenge is pretty simple since generally it only does two things : malloc
 
 The intended solution is corrupting `thread_arena`. See [x.py](./x.py) for more details.
 
+Actually the "PadBlock" functionality is not present in the first version of this challenge, but considering network latency, I decided to add it no matter if it will become a subtle hint.
+
