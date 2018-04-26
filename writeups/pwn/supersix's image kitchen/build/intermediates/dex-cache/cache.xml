@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_865edf5f6777fe25900f745e0ad509f4dbc1da5a.jar" />
+    </item>
+    <item
+        jar="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_ced1603d4036d5cda83cd6d0836bdecdcf88cade.jar" />
+    </item>
+    <item
+        jar="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_fd35066f0c5313f8cc7c87e0dfd79a4105350a72.jar" />
+    </item>
+    <item
+        jar="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_1b8a3f6d58c0ed5f9c7141e98521aa7252a1e756.jar" />
+    </item>
+    <item
+        jar="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_5e4f070c7ce7d9cb71736496ec4c08df0158c096.jar" />
+    </item>
+    <item
+        jar="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_0512d92bdf2d12bce8733909bb15b7f9d468141f.jar" />
+    </item>
+    <item
+        jar="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_8fe61a19d7406a87b6476e5b309bdcfde7b98989.jar" />
+    </item>
+    <item
+        jar="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_6ffb3d1035f43121a7dbd44ca103287706cc1fe4.jar" />
+    </item>
+    <item
+        jar="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_964a510fec5ec469f3e13188238f047661b0a795.jar" />
+    </item>
+    <item
+        jar="/Users/burningcodes/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/burningcodes/android_projects/nu1lctf/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1658d2d412c01daccdd9f948a938c37317fed218.jar" />
+    </item>
+
+</items>
